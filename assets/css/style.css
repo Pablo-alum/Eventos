@@ -1,0 +1,26 @@
+.container-fluid {
+	margin:0!important;
+}
+.box{
+	height: 30rem!important;
+}
+
+body{
+	min-height:99vh!important;
+	display:flex!important;
+	flex-direction: column!important;
+	justify-content: space-between!important;
+
+}
+.contat{
+	min-height:30vh!important;
+	max-width:40vw!important;
+}
+caption{
+	   caption-side: top!important;
+}
+main{
+
+	min-height:80vh!important;
+}
+
